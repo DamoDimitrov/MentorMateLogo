@@ -6,6 +6,7 @@ public class LogoPrinter {
     }
 
     public void printFigure(int n) {
+        //TODO SINGLE RESPONSIBILITY!!!!
         if (numberChecker(n)) {
             int halfRowsCount = n / 2 + 1;
             for (int i = 0; i < halfRowsCount; i++) {

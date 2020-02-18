@@ -10,7 +10,5 @@ public class Main {
 
         LogoPrinter lp = new LogoPrinter();
         lp.printFigure(n);
-
-
     }
 }
