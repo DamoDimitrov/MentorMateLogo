@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00b82649-15b1-4cb7-9435-2d588af7a83b" name="Default Changelist" comment="" />
+    <list default="true" id="00b82649-15b1-4cb7-9435-2d588af7a83b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MentorMate_Project/LogoPrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MentorMate_Project/LogoPrinter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MentorMate_Project/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MentorMate_Project/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LogoPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LogoPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,6 +77,10 @@
       <option name="presentableId" value="Default" />
       <updated>1582009028085</updated>
       <workItem from="1582009032944" duration="18140000" />
+      <workItem from="1582049854772" duration="174000" />
+      <workItem from="1582104824712" duration="1246000" />
+      <workItem from="1582623193629" duration="944000" />
+      <workItem from="1583321860244" duration="2777000" />
     </task>
     <servers />
   </component>
@@ -78,22 +88,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1582049901655">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1582636843124">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582049901655" />
-    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1582049901655">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582636843124" />
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom" timestamp="1583329873527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582049901655" />
-    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1582049901655">
+    <state width="1323" height="188" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583329873527" />
+    <state width="1323" height="188" key="GridCell.Tab.0.center" timestamp="1583329873527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582049901655" />
-    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1582049901655">
+    <state width="1323" height="188" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583329873527" />
+    <state width="1323" height="188" key="GridCell.Tab.0.left" timestamp="1583329873527">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582049901655" />
+    <state width="1323" height="188" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583329873527" />
+    <state width="1323" height="188" key="GridCell.Tab.0.right" timestamp="1583329873527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="188" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583329873527" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1582037929765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,5 +128,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="119" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1582032244099" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LogoPrinter.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

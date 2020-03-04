@@ -9,6 +9,7 @@ public class Main {
         int n = Integer.parseInt(bf.readLine());
 
         LogoPrinter lp = new LogoPrinter();
-        lp.printFigure(n);
+        lp.printingFigure(n);
+
     }
 }
